@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    font-family: 'Raleway', sans-serif;
+}
+
+.titulo{
+    font-size: 40px;
+    margin-bottom: 20px;
+    color: #000;
+    text-shadow: 2px 2px 1px rgba(255,255,255,0.5);
+}
+
+.subtitulo{
+    margin: 0;
+    color: #000;
+    display: inline;
+    font-size: 25px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.info {
+    
+    color: #000;
+    margin: 7px 0;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 0;
+    text-align: justify;
+}
